@@ -1,2 +1,3 @@
-# siorma
+# SIORMA
+
 Sistem Informasi Organisasi Mahasiswa
